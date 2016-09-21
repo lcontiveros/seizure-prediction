@@ -18,12 +18,12 @@ Los datos están organizados en carpetas contenedoras de datos de entrenamiento 
 
 i_j_k.mat - El j-ésimo segmento de datos correspondiente a la k clase (k = 0 para interictal, k = 1 para preictal) para el i-ésimo paciente.
 
-Y dentro de este archivo .mat encontraremos lo siguiente: 
+Y dentro de este archivo .mat encontraremos lo siguiente:   
 
-data: Una matriz de muestra de valores iEEG ordenada fila y columna como muestra y electrodo respectivamente.
-nSamplesSegment: Número total de muestras (columnas).
-iEEGsamplingRate: Tasa de muestreo de datos, es decir, el número de muestras de datos que representan 1 segundo de los EEG.
-channelIndices: Un arreglo de índices correspondiente a las columnas en data.
-sequence: El índice del segmento de datos dentro de la serie de una hora de clips.
+- data: Una matriz de muestra de valores iEEG ordenada fila y columna como muestra y electrodo respectivamente.
+- nSamplesSegment: Número total de muestras (columnas).
+- iEEGsamplingRate: Tasa de muestreo de datos, es decir, el número de muestras de datos que representan 1 segundo de los EEG.
+- channelIndices: Un arreglo de índices correspondiente a las columnas en data.
+- sequence: El índice del segmento de datos dentro de la serie de una hora de clips.
 
 ![ ](EEG.png)

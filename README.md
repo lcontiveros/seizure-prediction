@@ -4,7 +4,7 @@ La epilepsia afecta a cerca del 1% de la población mundial y está caracterizad
 
 Los sistemas de prediccción de convulsiones tienen el potencial de auxiliar a los pacientes con epilepsia a tener una mejor calidad de vida. En base a la actividad electrica del cerebro (EEG), un algoritmo efectivo debería de predecir con alto grado de probabilidad la ocurrencia de las convulsiones, por lo tanto se pueden diseñar dispositivos que adviertan al usuario y así evitar actividades peligrosas y administrar la dosis de medicamente adecuada.
 
-![ ](Seizure Prediction Grahic.png)
+![ ](SeizurePredictionGrahic.png)
 
 ### Background
 
